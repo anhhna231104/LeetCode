@@ -5,9 +5,12 @@ class Solution(object):
         :type val: int
         :rtype: int
         """
-        k = 0
-        for num in nums:
-            if num!=val:
-                nums[k] = num
-                k+=1
+        k = len(nums)
+        i = 0
+        while i < k:
+            if nums[i] == val:
+                nums[i] = nums[k-1]
+                k-=1
+            else:
+                i+=1
         return k
