@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ceyline/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ceyline/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ceyline/LeetCode/tree/master/0066-plus-one) |
+| [1137-height-checker](https://github.com/Ceyline/LeetCode/tree/master/1137-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Ceyline/LeetCode/tree/master/0196-delete-duplicate-emails) |
+## Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Ceyline/LeetCode/tree/master/1137-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Ceyline/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
