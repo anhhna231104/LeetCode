@@ -71,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Ceyline/LeetCode/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Ceyline/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
