@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ceyline/LeetCode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/Ceyline/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Ceyline/LeetCode/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/Ceyline/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Ceyline/LeetCode/tree/master/1013-fibonacci-number) |
 | [3625-stone-removal-game](https://github.com/Ceyline/LeetCode/tree/master/3625-stone-removal-game) |
 ## String
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Ceyline/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Ceyline/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ceyline/LeetCode/tree/master/0292-nim-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Ceyline/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
