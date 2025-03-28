@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ceyline/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ceyline/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ceyline/LeetCode/tree/master/0066-plus-one) |
+| [1115-valid-boomerang](https://github.com/Ceyline/LeetCode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/Ceyline/LeetCode/tree/master/1137-height-checker) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Ceyline/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Ceyline/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Ceyline/LeetCode/tree/master/1013-fibonacci-number) |
+| [1115-valid-boomerang](https://github.com/Ceyline/LeetCode/tree/master/1115-valid-boomerang) |
 | [3625-stone-removal-game](https://github.com/Ceyline/LeetCode/tree/master/3625-stone-removal-game) |
 ## String
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Ceyline/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Ceyline/LeetCode/tree/master/0342-power-of-four) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/Ceyline/LeetCode/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
