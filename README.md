@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Ceyline/LeetCode/tree/master/1013-fibonacci-number) |
 | [1115-valid-boomerang](https://github.com/Ceyline/LeetCode/tree/master/1115-valid-boomerang) |
 | [2645-pass-the-pillow](https://github.com/Ceyline/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2752-sum-multiples](https://github.com/Ceyline/LeetCode/tree/master/2752-sum-multiples) |
 | [3625-stone-removal-game](https://github.com/Ceyline/LeetCode/tree/master/3625-stone-removal-game) |
 ## String
 |  |
