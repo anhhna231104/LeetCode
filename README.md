@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/Ceyline/LeetCode/tree/master/1115-valid-boomerang) |
 | [2645-pass-the-pillow](https://github.com/Ceyline/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2752-sum-multiples](https://github.com/Ceyline/LeetCode/tree/master/2752-sum-multiples) |
+| [3371-harshad-number](https://github.com/Ceyline/LeetCode/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ceyline/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3625-stone-removal-game](https://github.com/Ceyline/LeetCode/tree/master/3625-stone-removal-game) |
 ## String
