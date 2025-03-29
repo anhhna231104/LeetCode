@@ -4,9 +4,17 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
+        # if n == 0:
+        #     return 0
+        # if n==1 or n==2:
+        #     return 1
+        # return self.fib(n-1) + self.fib(n-2)
         if n == 0:
             return 0
-        if n==1 or n==2:
-            return 1
-        return self.fib(n-1) + self.fib(n-2)
+        a, b = 0, 1
+        for i in range(n - 1):
+            tmp = a  
+            a = b    
+            b = tmp + b  
+        return b
         
