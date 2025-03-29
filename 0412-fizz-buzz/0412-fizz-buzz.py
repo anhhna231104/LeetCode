@@ -5,7 +5,8 @@ class Solution(object):
         :rtype: List[str]
         """
         arr = []
-        for i in range(1, n+1):
+        i = 1
+        while i <= n:
             if i%3==0 and i%5==0:
                 arr.append("FizzBuzz")
             elif i%3==0:
@@ -14,6 +15,7 @@ class Solution(object):
                 arr.append("Buzz")
             else:
                 arr.append(str(i))
+            i += 1
         return arr
 
         
