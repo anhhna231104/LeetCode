@@ -12,9 +12,11 @@ class Solution(object):
         if n == 0:
             return 0
         a, b = 0, 1
-        for i in range(n - 1):
+        i = 1
+        while i < n:
             tmp = a  
             a = b    
-            b = tmp + b  
+            b = tmp + a  
+            i+=1
         return b
         
