@@ -69,18 +69,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Ceyline/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ceyline/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ceyline/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/Ceyline/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ceyline/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ceyline/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ceyline/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/Ceyline/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ceyline/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ceyline/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ceyline/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/Ceyline/LeetCode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Ceyline/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ceyline/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Ceyline/LeetCode/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
