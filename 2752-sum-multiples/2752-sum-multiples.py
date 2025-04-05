@@ -4,12 +4,9 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        sum = 0
-        seen = set() 
+        multiples = set()
         for k in [3, 5, 7]:
             for num in range(k, n+1, k):
-                if num not in seen:  
-                    sum += num
-                    seen.add(num)
-        return sum
+                    multiples.add(num)
+        return sum(multiples)
         
