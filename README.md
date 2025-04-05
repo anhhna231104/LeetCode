@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ceyline/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Ceyline/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ceyline/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Ceyline/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Ceyline/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Ceyline/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Ceyline/LeetCode/tree/master/0326-power-of-three) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ceyline/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Ceyline/LeetCode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Ceyline/LeetCode/tree/master/0495-teemo-attacking) |
 | [2645-pass-the-pillow](https://github.com/Ceyline/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Ceyline/LeetCode/tree/master/0455-assign-cookies) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ceyline/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
