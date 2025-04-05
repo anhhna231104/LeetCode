@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ceyline/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ceyline/LeetCode/tree/master/0066-plus-one) |
 | [0455-assign-cookies](https://github.com/Ceyline/LeetCode/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/Ceyline/LeetCode/tree/master/0495-teemo-attacking) |
 | [1115-valid-boomerang](https://github.com/Ceyline/LeetCode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/Ceyline/LeetCode/tree/master/1137-height-checker) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ceyline/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Ceyline/LeetCode/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/Ceyline/LeetCode/tree/master/0495-teemo-attacking) |
 | [2645-pass-the-pillow](https://github.com/Ceyline/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3625-stone-removal-game](https://github.com/Ceyline/LeetCode/tree/master/3625-stone-removal-game) |
 ## Brainteaser
