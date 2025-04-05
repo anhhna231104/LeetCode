@@ -19,7 +19,7 @@ class Solution(object):
             if guess(mid)>0:
                 lowest = mid + 1
             elif guess(mid)<0:
-                highest = mid
+                highest = mid - 1
             else:
                 return mid
         return lowest
