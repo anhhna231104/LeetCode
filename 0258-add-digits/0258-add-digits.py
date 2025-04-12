@@ -15,6 +15,6 @@ class Solution(object):
                 else:
                     tmp = sum
                     sum = 0
-        return 0
+        # return 0
                                                                                   
         
