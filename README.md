@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ceyline/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Ceyline/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ceyline/LeetCode/tree/master/0202-happy-number) |
+| [0782-jewels-and-stones](https://github.com/Ceyline/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Ceyline/LeetCode/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/Ceyline/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Ceyline/LeetCode/tree/master/0412-fizz-buzz) |
+| [0782-jewels-and-stones](https://github.com/Ceyline/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
