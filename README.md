@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ceyline/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Ceyline/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Ceyline/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0851-goat-latin](https://github.com/Ceyline/LeetCode/tree/master/0851-goat-latin) |
 ## Two Pointers
 |  |
 | ------- |
