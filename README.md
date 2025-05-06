@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ceyline/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Ceyline/LeetCode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/Ceyline/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Ceyline/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ceyline/LeetCode/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/Ceyline/LeetCode/tree/master/0495-teemo-attacking) |
 | [1115-valid-boomerang](https://github.com/Ceyline/LeetCode/tree/master/1115-valid-boomerang) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ceyline/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Ceyline/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ceyline/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Ceyline/LeetCode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/Ceyline/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ceyline/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ceyline/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Ceyline/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Ceyline/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Ceyline/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Ceyline/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ceyline/LeetCode/tree/master/0342-power-of-four) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ceyline/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Ceyline/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Ceyline/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ceyline/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Ceyline/LeetCode/tree/master/0441-arranging-coins) |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ceyline/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Ceyline/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ceyline/LeetCode/tree/master/0455-assign-cookies) |
 | [1137-height-checker](https://github.com/Ceyline/LeetCode/tree/master/1137-height-checker) |
 ## Counting Sort
@@ -154,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Ceyline/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Ceyline/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Ceyline/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ceyline/LeetCode/tree/master/0342-power-of-four) |
 ## Geometry
 |  |
