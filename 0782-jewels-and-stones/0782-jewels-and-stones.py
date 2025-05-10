@@ -5,10 +5,9 @@ class Solution(object):
         :type stones: str
         :rtype: int
         """
-        jelList = list(jewels)
         sum = 0
-        for i in range(len(jelList)):
-            sum+=stones.count(jelList[i])
+        for i in range(len(jewels)):
+            sum+=stones.count(jewels[i])
         return sum
             
 
