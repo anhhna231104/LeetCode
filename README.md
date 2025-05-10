@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Ceyline/LeetCode/tree/master/0495-teemo-attacking) |
 | [1115-valid-boomerang](https://github.com/Ceyline/LeetCode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/Ceyline/LeetCode/tree/master/1137-height-checker) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Ceyline/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ceyline/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ceyline/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Ceyline/LeetCode/tree/master/0290-word-pattern) |
 | [0782-jewels-and-stones](https://github.com/Ceyline/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Ceyline/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ceyline/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Ceyline/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Ceyline/LeetCode/tree/master/0455-assign-cookies) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Ceyline/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Ceyline/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ceyline/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Ceyline/LeetCode/tree/master/0441-arranging-coins) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Ceyline/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ceyline/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ceyline/LeetCode/tree/master/0455-assign-cookies) |
 | [1137-height-checker](https://github.com/Ceyline/LeetCode/tree/master/1137-height-checker) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Ceyline/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Counting Sort
 |  |
 | ------- |
