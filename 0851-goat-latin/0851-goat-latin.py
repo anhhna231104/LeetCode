@@ -14,7 +14,7 @@ class Solution(object):
                 goat = w[1:] + w[0] + 'ma'
             goat+='a'*(i+1)
             goat_latin.append(goat)
-        return join(goat_latin)
+        return ' '.join(goat_latin)
 
 
 
