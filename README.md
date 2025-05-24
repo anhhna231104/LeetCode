@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ceyline/LeetCode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ceyline/LeetCode/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/Ceyline/LeetCode/tree/master/0495-teemo-attacking) |
+| [0575-distribute-candies](https://github.com/Ceyline/LeetCode/tree/master/0575-distribute-candies) |
 | [1115-valid-boomerang](https://github.com/Ceyline/LeetCode/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/Ceyline/LeetCode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ceyline/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ceyline/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ceyline/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Ceyline/LeetCode/tree/master/0290-word-pattern) |
+| [0575-distribute-candies](https://github.com/Ceyline/LeetCode/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/Ceyline/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ceyline/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
