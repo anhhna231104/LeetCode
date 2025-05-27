@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Ceyline/LeetCode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Ceyline/LeetCode/tree/master/1013-fibonacci-number) |
 | [1115-valid-boomerang](https://github.com/Ceyline/LeetCode/tree/master/1115-valid-boomerang) |
+| [1195-distribute-candies-to-people](https://github.com/Ceyline/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [2645-pass-the-pillow](https://github.com/Ceyline/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2752-sum-multiples](https://github.com/Ceyline/LeetCode/tree/master/2752-sum-multiples) |
 | [3371-harshad-number](https://github.com/Ceyline/LeetCode/tree/master/3371-harshad-number) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Ceyline/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Ceyline/LeetCode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Ceyline/LeetCode/tree/master/0495-teemo-attacking) |
+| [1195-distribute-candies-to-people](https://github.com/Ceyline/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [2645-pass-the-pillow](https://github.com/Ceyline/LeetCode/tree/master/2645-pass-the-pillow) |
 | [3625-stone-removal-game](https://github.com/Ceyline/LeetCode/tree/master/3625-stone-removal-game) |
 ## Brainteaser
