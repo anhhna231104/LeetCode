@@ -25,7 +25,7 @@ class Solution {
                         return false;
                 default: break;
             }
-        } 
-        return count($parents)===0;        
+        }  
+        return count($parents) === 0; 
     }
 }
