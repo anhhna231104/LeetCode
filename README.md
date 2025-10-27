@@ -55,9 +55,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ceyline/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Ceyline/LeetCode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Ceyline/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Ceyline/LeetCode/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/Ceyline/LeetCode/tree/master/1115-valid-boomerang) |
 | [1195-distribute-candies-to-people](https://github.com/Ceyline/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [1642-water-bottles](https://github.com/Ceyline/LeetCode/tree/master/1642-water-bottles) |
+| [2083-three-divisors](https://github.com/Ceyline/LeetCode/tree/master/2083-three-divisors) |
 | [2645-pass-the-pillow](https://github.com/Ceyline/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2752-sum-multiples](https://github.com/Ceyline/LeetCode/tree/master/2752-sum-multiples) |
 | [3371-harshad-number](https://github.com/Ceyline/LeetCode/tree/master/3371-harshad-number) |
@@ -76,8 +78,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Ceyline/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Ceyline/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Ceyline/LeetCode/tree/master/0412-fizz-buzz) |
+| [0742-to-lower-case](https://github.com/Ceyline/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Ceyline/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/Ceyline/LeetCode/tree/master/0851-goat-latin) |
+| [1660-thousand-separator](https://github.com/Ceyline/LeetCode/tree/master/1660-thousand-separator) |
+| [1812-reformat-phone-number](https://github.com/Ceyline/LeetCode/tree/master/1812-reformat-phone-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Ceyline/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Ceyline/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Ceyline/LeetCode/tree/master/1086-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -179,10 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ceyline/LeetCode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Ceyline/LeetCode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ceyline/LeetCode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Ceyline/LeetCode/tree/master/1086-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -202,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ceyline/LeetCode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/Ceyline/LeetCode/tree/master/2083-three-divisors) |
 ## Interactive
 |  |
 | ------- |
@@ -228,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ceyline/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Ceyline/LeetCode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
