@@ -5,6 +5,7 @@ class Solution(object):
         :type numExchange: int
         :rtype: int
         """
+        # test syncing
         res, emptyBottles = 0, 0
         while numBottles > 0:
             res += numBottles
