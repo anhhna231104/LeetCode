@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ceyline/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Ceyline/LeetCode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Ceyline/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Ceyline/LeetCode/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/Ceyline/LeetCode/tree/master/1115-valid-boomerang) |
 | [1195-distribute-candies-to-people](https://github.com/Ceyline/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [1642-water-bottles](https://github.com/Ceyline/LeetCode/tree/master/1642-water-bottles) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Ceyline/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Ceyline/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Ceyline/LeetCode/tree/master/1086-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -180,10 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ceyline/LeetCode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Ceyline/LeetCode/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Ceyline/LeetCode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Ceyline/LeetCode/tree/master/1086-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
