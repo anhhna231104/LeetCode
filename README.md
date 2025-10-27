@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Ceyline/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/Ceyline/LeetCode/tree/master/0851-goat-latin) |
 | [1660-thousand-separator](https://github.com/Ceyline/LeetCode/tree/master/1660-thousand-separator) |
+| [1812-reformat-phone-number](https://github.com/Ceyline/LeetCode/tree/master/1812-reformat-phone-number) |
 ## Two Pointers
 |  |
 | ------- |
