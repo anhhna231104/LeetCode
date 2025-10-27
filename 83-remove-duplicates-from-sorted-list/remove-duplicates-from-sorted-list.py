@@ -9,9 +9,9 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        if head is None:
-            return
-            
+        if not head:
+            return head
+
         map = []
         tmp = head
 
