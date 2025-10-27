@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/Ceyline/LeetCode/tree/master/1115-valid-boomerang) |
 | [1195-distribute-candies-to-people](https://github.com/Ceyline/LeetCode/tree/master/1195-distribute-candies-to-people) |
 | [1642-water-bottles](https://github.com/Ceyline/LeetCode/tree/master/1642-water-bottles) |
+| [2083-three-divisors](https://github.com/Ceyline/LeetCode/tree/master/2083-three-divisors) |
 | [2645-pass-the-pillow](https://github.com/Ceyline/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2752-sum-multiples](https://github.com/Ceyline/LeetCode/tree/master/2752-sum-multiples) |
 | [3371-harshad-number](https://github.com/Ceyline/LeetCode/tree/master/3371-harshad-number) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ceyline/LeetCode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/Ceyline/LeetCode/tree/master/2083-three-divisors) |
 ## Interactive
 |  |
 | ------- |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ceyline/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Ceyline/LeetCode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
