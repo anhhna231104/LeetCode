@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Ceyline/LeetCode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ceyline/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ceyline/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2159-two-out-of-three](https://github.com/Ceyline/LeetCode/tree/master/2159-two-out-of-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ceyline/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Ceyline/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ceyline/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ceyline/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2159-two-out-of-three](https://github.com/Ceyline/LeetCode/tree/master/2159-two-out-of-three) |
 ## Math
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ceyline/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ceyline/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ceyline/LeetCode/tree/master/0342-power-of-four) |
+| [2159-two-out-of-three](https://github.com/Ceyline/LeetCode/tree/master/2159-two-out-of-three) |
 ## Geometry
 |  |
 | ------- |
