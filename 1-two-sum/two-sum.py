@@ -11,13 +11,12 @@ class Solution(object):
         map = {}
 
         for i, num in enumerate(nums):
-            complementary = target - num
+            comp = target - num
 
-            if complementary in map:
-                return [map[complementary], i]
-            
+            if comp in map:
+                return [map[comp], i]
             map[num] = i
-            
+
         return map
         
         
