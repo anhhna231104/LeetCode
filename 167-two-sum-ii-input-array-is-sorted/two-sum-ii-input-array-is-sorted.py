@@ -8,16 +8,17 @@ class Solution(object):
         if not nums:
             return
 
-        map = {}
-
-        for i, num in enumerate(nums):
-            comp = target - num
-
-            if comp in map:
-                return [map[comp] + 1, i + 1]
-            map[num] = i
+        l, r = 0, len(nums) - 1
         
-        return map
+        while l < r:
+            sum = nums[l] + nums[r]
+
+            if sum > target: 
+                r -= 1
+            elif sum < target:
+                l += 1
+            else:
+                return [l + 1, r + 1]
 
 
         
