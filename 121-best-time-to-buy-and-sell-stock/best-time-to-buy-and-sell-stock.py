@@ -14,5 +14,6 @@ class Solution(object):
             else:
                 left = right
             right += 1
+            
         return max_profit
         
