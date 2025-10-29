@@ -13,12 +13,18 @@ class Solution(object):
         if not root:
             return 0
 
-        def dfs(node):
-            if not node:
-                return float('inf')
-            if not node.left and not node.right:
-                return 1            
-            return 1 + min(dfs(node.left), dfs(node.right))
+        self.min_depth = float('inf')
 
-        return dfs(root)
+        def dfs(node, depth):
+            if not node:
+                return
+            if not node.left and not node.right:
+                self.min_depth = min(depth, self.min_depth)
+            
+            dfs(node.left, depth + 1)
+            dfs(node.right, depth + 1)
+
+        dfs(root, 1)
+
+        return self.min_depth
         
