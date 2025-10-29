@@ -11,15 +11,33 @@ class Solution(object):
         :type k: int
         :rtype: bool
         """
-        seen = []
-
-        def dfs(node):
-            if not node:
-                return False
-            
-            if k - node.val in seen:
-                return True
-            seen.append(node.val)
-            return dfs(node.left) or dfs(node.right)
+        if not root:
+            return False
         
-        return dfs(root)
+        values = []
+        
+        def inorder(node):
+            if not node: 
+                return
+            inorder(node.left)
+            values.append(node.val)
+            inorder(node.right)
+        
+        inorder(root)
+        
+        l, r = 0, len(values) - 1
+
+        while l < r:
+            comp = values[l] + values[r]
+            if comp == k:
+                return True
+            elif comp > k:
+                r -= 1
+            else:
+                l += 1
+        
+        return False
+        
+
+
+        
