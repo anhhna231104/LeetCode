@@ -13,14 +13,14 @@ class Solution(object):
         if not root:
             return []
 
-        res, q = [], collections.deque([(root, "")])
-        while q:
-            node, l = q.popleft()
+        res = []
+        def dfs(node, path):
             if not node.left and not node.right:
-                res.append(l + str(node.val))
+                res.append(path + str(node.val))
             if node.left:
-                q.append((node.left, l + str(node.val) + "->"))
+                dfs(node.left, path + str(node.val) + "->")
             if node.right:
-                q.append((node.right, l + str(node.val) + "->"))
+               dfs(node.right, path + str(node.val) + "->")
         
+        dfs(root, "")
         return res
