@@ -11,15 +11,14 @@
  * @return {ListNode}
  */
 var addTwoNumbers = function(l1, l2) {
-    let res = new ListNode()
-    let cur = res
-    let carry = 0;
+    let result = new ListNode()
+    let cur = result
+    let carry = 0
 
-    while (l1 || l2 || carry) {
-        let v1 = 0;
-        let v2 = 0;
+    while(l1 || l2 || carry){
+        let v1 = v2 = 0
 
-        if (l1){
+        if(l1){
             v1 = l1.val
             l1 = l1.next
         }
@@ -28,14 +27,13 @@ var addTwoNumbers = function(l1, l2) {
             l2 = l2.next
         }
 
-        value = v1 + v2 + carry
-        carry = Math.floor(value / 10)
-        value %= 10
-        
-        cur.next = new ListNode(value)
+        val = v1 + v2 + carry
+        carry = Math.floor(val / 10)
+        val %= 10
+        cur.next = new ListNode(val)
+
         cur = cur.next
     }
 
-    return res.next
-
+    return result.next
 };
